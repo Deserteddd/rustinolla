@@ -41,11 +41,11 @@
 
 1. Avaa vasemmasta yläkulmasta: File &rarr; Preferences &rarr; Keyboard Shortcuts.
 2. Etsi hakukentästä asetus "View: Toggle Problems"
-3. Aseta pikanäppäimeksi **Ctrl/Cmd + ä**.
-4. Toista sama asetukselle "View: Toggle Terminal" ja aseta pikanäppäimeksi  **Ctrl/Cmd + ö**.
+3. Aseta haluamasi pikanäppäin.
+4. Toista sama asetukselle "View: Toggle Terminal".
 
 #### Siirrä terminaali ja *Problems*-paneeli näytön oikeaan reunaan
 
 ## Cargo
 
-Cargo on Rustin mukana tuleva työkalu, joka tekee projektien hallinnasta, kääntämisestä ja ajamisesta erittäin helppoa. Kun olet asentanut kaiken, voit ajaa tämän projektin terminaalista komennolla **cargo run**. Jatkossa ohjelman ajaminen onnistuu yksinkertaisesti avaamalla konsolin (Ctrl/Cmd + ö), painamalla ylänuolta ja enteriä.
+Cargo on Rustin mukana tuleva työkalu, joka tekee projektien hallinnasta, kääntämisestä ja suorittamisesta erittäin helppoa. Voit ajaa projektin terminaalista komennolla **cargo run**.
